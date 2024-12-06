@@ -4,3 +4,7 @@
 
 * Linguagem de programação: [Python 3]
 * Versão S.O.: Windows, Ubuntu, MacOS e Raspberry Pi Os
+
+# Comandos para executar o programa
+
+$ pip install -r requirements.txt
